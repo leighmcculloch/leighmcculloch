@@ -4,7 +4,7 @@
 
 📚 I’m currently learning [Rust] and [Zig].
 
-Find ways to connect with me at [leighmcculloch.com][me].
+Connect with me at <a rel="me" href="https://inuh.net/@leigh">@leigh@inuh.net</a>, or find other ways to connect with me at [leighmcculloch.com][me].
 
 [Go]: https://go.dev
 [PostgreSQL]: https://postgresql.org
