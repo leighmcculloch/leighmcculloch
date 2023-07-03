@@ -1,8 +1,10 @@
 ### Hi there. I'm Leigh, an Aussie 🇦🇺 software engineer. I'm passionate about open source and simplicity, and enjoy building SDKs, backends and tools with [Go], [PostgreSQL], [Rust], [Ruby], and other tech.
 
-🔭 I’m currently building the [WASM] powered [Soroban] platform for the [Stellar] network at the [Stellar Development Foundation][SDF].
+🔭 I’m building the [Soroban] execution platform for the [Stellar] network at the [Stellar Development Foundation][SDF]. It's powered by [WASM].
 
-📚 I’m currently learning [Rust] and [Zig].
+💻 I'm developing with [Rust] and [Go].
+
+📚 I’m learning [Zig].
 
 Find ways to connect with me at [leighmcculloch.com][me].
 
