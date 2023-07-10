@@ -1,4 +1,4 @@
-### Hi there. I'm Leigh, an Aussie 🇦🇺 software engineer. I'm passionate about open source and simplicity, and enjoy building SDKs, backends and tools with [Go], [PostgreSQL], [Rust], [Ruby], and other tech.
+### Hi there. I'm Leigh, an Aussie 🇦🇺 software engineer. I'm passionate about open source and simplicity, and enjoy building SDKs, backends and tools with [Go], [Rust], [Ruby], [WASM], [PostgreSQL], and other tech.
 
 🔭 I’m building the [Soroban] execution platform for the [Stellar] network at the [Stellar Development Foundation][SDF]. It's powered by [WASM].
 
