@@ -1,10 +1,10 @@
-### Hi there. I'm Leigh, an Aussie 🇦🇺 software engineer. I'm passionate about open source and simplicity, and enjoy building SDKs, backends and tools with [Go], [Rust], [Ruby], [WASM], [PostgreSQL], and other tech.
+### Hi there. I'm Leigh, an Aussie 🇦🇺 software engineer. I'm passionate about open source and simplicity, and enjoy building SDKs, backends and tools with [Go], [Rust], [Ruby], [Wasm], [Deno], [PostgreSQL], and other tech.
 
-🔭 I’m building the [Soroban] execution platform for the [Stellar] network at the [Stellar Development Foundation][SDF]. It's powered by [WASM].
+🔭 I build the [Stellar] network and its [Wasm]-powered contract runtime at the [Stellar Development Foundation][SDF].
 
-💻 I'm developing with [Rust] and [Go].
+💻 I develop with [Rust], [Go], and [TypeScript] ([Deno]).
 
-📚 I’m learning [Zig].
+📚 I am experimenting with [Zig].
 
 Find ways to connect with me at [leighmcculloch.com][me].
 
@@ -13,9 +13,10 @@ Find ways to connect with me at [leighmcculloch.com][me].
 [Rust]: https://www.rust-lang.org
 [Ruby]: https://www.ruby-lang.org
 [Zig]: http://ziglang.org
+[Deno]: http://deno.com
+[TypeScript]: https://typescriptlang.org
 
-[WASM]: https://webassembly.org
-[Soroban]: https://soroban.stellar.org
+[Wasm]: https://webassembly.org
 [Stellar]: https://stellar.org
 [SDF]: https://stellar.org/foundation
 
