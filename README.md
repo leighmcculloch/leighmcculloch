@@ -6,7 +6,7 @@
 
 📚 I am experimenting with [Zig].
 
-Find ways to connect with me at [leighmcculloch.com][me].
+Find ways to connect with me at [leighm.cc][me].
 
 [Go]: https://go.dev
 [PostgreSQL]: https://postgresql.org
@@ -20,4 +20,4 @@ Find ways to connect with me at [leighmcculloch.com][me].
 [Stellar]: https://stellar.org
 [SDF]: https://stellar.org/foundation
 
-[me]: https://leighmcculloch.com
+[me]: https://leighm.cc
