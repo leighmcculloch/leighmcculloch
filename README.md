@@ -1,4 +1,4 @@
-### Hi there. I'm Leigh, an Aussie 🇦🇺 software engineer. I'm passionate about open source and simplicity, and enjoy building SDKs, backends and tools with [Go], [Rust], [Ruby], [Wasm], [Deno], [PostgreSQL], and other tech.
+### Hi there. I'm Leigh, an Aussie 🇦🇺 software engineer. I care about creating for an open and equitable future. I'm passionate about open source and simplicity.
 
 🔭 I build the [Stellar] network and its [Wasm]-powered contract runtime at the [Stellar Development Foundation][SDF].
 
