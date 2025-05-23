@@ -27,6 +27,16 @@ I care about creating for an open and equitable future. I'm passionate about ope
 
 ---
 
+### 🛠️ Featured Projects
+
+[![vagrant-docker-compose](https://img.shields.io/badge/-vagrant--docker--compose-333333?style=flat-square)](https://github.com/leighmcculloch/vagrant-docker-compose) A Vagrant provisioner for docker compose
+
+[![gochecknoglobals](https://img.shields.io/badge/-gochecknoglobals-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/leighmcculloch/gochecknoglobals) Check that no globals are present in Go code
+
+[![looks.wtf](https://img.shields.io/badge/-looks.wtf-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/leighmcculloch/looks.wtf) A collection of text emoticons (◔_◔)
+
+---
+
 ### 🌐 Connect With Me
 
 Find ways to connect with me at [leighm.cc][me].
