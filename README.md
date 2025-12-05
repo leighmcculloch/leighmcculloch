@@ -1,6 +1,8 @@
 ![bg](https://github.com/user-attachments/assets/a4e3b125-1017-45a4-aec7-b213dd6a6d2a)
 
-### Hi there. I'm Leigh, an Aussie 🇦🇺 software engineer. I care about creating for an open and equitable future. I'm passionate about open source and simplicity.
+### Hi there. I'm Leigh, an Aussie 🇦🇺 software engineer.
+
+🌏 I care about creating for an open and equitable future through open source and open networks.
 
 🔭 I build the [Stellar] network and its [Wasm]-powered contract runtime at the [Stellar Development Foundation][SDF].
 
