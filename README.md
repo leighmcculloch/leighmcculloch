@@ -2,23 +2,19 @@
 
 ### Hi there. I'm Leigh, an Aussie 🇦🇺 software engineer.
 
-🌏 I care about creating for an open and equitable future through open source and open networks.
+🌏 I care about creating for an equitable future. The world is moving forward and people must not be left behind.
 
-🔭 I build the [Stellar] network and its [Wasm]-powered contract runtime at the [Stellar Development Foundation][SDF].
+🔭 To that end I contribute to the development of the [Stellar] network.
 
-💻 I develop with [Rust], [Go], and [TypeScript] ([Deno]).
+💻 At the moment I build with [Rust], [Go], and [TypeScript] ([Deno]), but that will change.
 
-📚 I am experimenting with [Zig].
-
-Find ways to connect with me at [leighm.cc][me].
+🗣️ Find ways to connect with me at [leighm.cc][me].
 
 [Go]: https://go.dev
 [PostgreSQL]: https://postgresql.org
 [Rust]: https://www.rust-lang.org
-[Ruby]: https://www.ruby-lang.org
-[Zig]: http://ziglang.org
-[Deno]: http://deno.com
 [TypeScript]: https://typescriptlang.org
+[Deno]: http://deno.com
 
 [Wasm]: https://webassembly.org
 [Stellar]: https://stellar.org
